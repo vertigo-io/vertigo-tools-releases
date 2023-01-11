@@ -3,9 +3,9 @@
 <repository name='Vertigo Tools repository'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1665594621494'/>
+    <property name='p2.timestamp' value='1673457064494'/>
   </properties>
-  <children size='10'>
+  <children size='11'>
     <child location='2.0.3'/>
     <child location='2.0.4'/>
     <child location='2.0.5'/>
@@ -17,5 +17,6 @@
 	<child location='3.2.0'/>
 	<child location='3.3.0'/>
 	<child location='3.4.0'/>
+	<child location='3.5.0'/>
   </children>
 </repository>
